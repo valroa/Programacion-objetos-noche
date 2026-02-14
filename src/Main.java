@@ -5,4 +5,6 @@ void main() {
     System.out.println("repaso comando")
     System.out.println("Laura Valentina Roa Baracaldo")
     System.out.println("el lenguaje de programacion que he visto y aprendido es c++")
+
+    System.out.println("La solucion es arreglar la ruta")
 }
